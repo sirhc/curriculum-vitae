@@ -11,6 +11,11 @@ title: "Christopher Grau"
 
 # Education
 
+**University of California, San Diego** \
+1995—1999 \
+Bachelor of Science, Computer Science \
+Minor, Psychology
+
 # Certifications
 
 [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/12acb282-6e13-46b5-a713-d5a83b4d142a) \
