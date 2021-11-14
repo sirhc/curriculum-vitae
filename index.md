@@ -3,7 +3,23 @@ layout: default
 title: "Christopher Grau"
 ---
 
-# Skills
+# Synopsis
+
+As a programmer, I have built my career on creating tools to bring joy to
+tasks that people once found difficult or dull, freeing them to in turn
+improve their own work.
+
+I look at every task and consider how it can be improved. What can—and, more
+importantly, should—be automated? Would looking at things from a different
+angle open opportunities for simplification? I may find myself streamlining
+deployment of an application to a cloud service by creating a full CI/CD
+stack, or developing small tools to perform repetitive tasks. Instead of
+manually setting the thermostat, a bit of home automation can easily sync the
+temperature to match the current solar power generation.
+
+I am constantly seeking opportunities to improve. Nothing pleases me more than
+seeing the sense of satisfaction, and sometimes joy, that my work creates in
+others.
 
 # Experience
 
