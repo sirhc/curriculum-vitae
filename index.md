@@ -23,3 +23,20 @@ December 2020—December 2023
 October 2020—October 2023
 
 # Personal Projects
+
+## [Home Directory Configuration](https://github.com/sirhc/dotfiles)
+
+Mostly used as a way to keep all of my configuration safe and in one place, I
+use this as a showcase of the tools I use to be productive.
+
+## [Vim Profile](https://github.com/sirhc/vim-profile)
+
+I have used Vim for many years and have collected my configuration here, which
+I use to help others learn about Vim's features.
+
+## [Home Lab](https://github.com/sirhc/homelab)
+
+A trend among technologists is to self-host services that do not rely on any
+one company or cloud provider. I have started with Grafana and a few data
+collectors. Eventually, I will replace most of the cloud services I use with
+self-hosted applications.
