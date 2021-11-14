@@ -3,11 +3,17 @@ layout: default
 title: "Christopher Grau"
 ---
 
-# Objective
-
 # Skills
 
 # Experience
+
+## DevOps Engineer, NTT DATA
+
+January 2020—Present
+
+## Programmer/IT Engineer, Qualcomm
+
+February 2006—January 2020
 
 # Education
 
