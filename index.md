@@ -23,9 +23,13 @@ others.
 
 # Experience
 
+## DevOps Engineer, [Tealium](https://tealium.com/)
+
+February 2022–Present
+
 ## DevOps Engineer, Flux7/NTT DATA
 
-January 2020—Present
+January 2020—January 2022
 
 My official title with NTT DATA is Digital Engineering Lead Advisor, but my
 role can be thought of as DevOps Engineer and Jack of all Trades. I started my
